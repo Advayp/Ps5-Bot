@@ -7,5 +7,5 @@ Install Python First
 You need to install selenium for this to work
 
 Just run the following:
-	python -m pip install --upgrade pip
+	python -m pip install --upgrade pip,
 	pip install selenium 
